@@ -43,20 +43,20 @@ deb-src http://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted univer
 
 ## Ubuntu 22.10
 ```txt
-deb http://old-releases.com/ubuntu/ kinetic main restricted universe multiverse
-deb-src http://old-releases.com/ubuntu/ kinetic main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ kinetic main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ kinetic main restricted universe multiverse
 
-deb http://old-releases.com/ubuntu/ kinetic-security main restricted universe multiverse
-deb-src http://old-releases.com/ubuntu/ kinetic-security main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ kinetic-security main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ kinetic-security main restricted universe multiverse
 
-deb http://old-releases.com/ubuntu/ kinetic-updates main restricted universe multiverse
-deb-src http://old-releases.com/ubuntu/ kinetic-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ kinetic-updates main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ kinetic-updates main restricted universe multiverse
 
-deb http://old-releases.com/ubuntu/ kinetic-proposed main restricted universe multiverse
-deb-src http://old-releases.com/ubuntu/ kinetic-proposed main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ kinetic-proposed main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ kinetic-proposed main restricted universe multiverse
 
-deb http://old-releases.com/ubuntu/ kinetic-backports main restricted universe multiverse
-deb-src http://old-releases.com/ubuntu/ kinetic-backports main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ kinetic-backports main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ kinetic-backports main restricted universe multiverse
 ```
 
 ## Ubuntu 21.04
