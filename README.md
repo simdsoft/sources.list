@@ -43,16 +43,16 @@ deb-src http://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted univer
 
 ## Ubuntu 21.04
 ```txt
-deb http://mirrors.aliyun.com/ubuntu/ hirsute main restricted universe multiverse
-deb http://mirrors.aliyun.com/ubuntu/ hirsute-security main restricted universe multiverse
-deb http://mirrors.aliyun.com/ubuntu/ hirsute-updates main restricted universe multiverse
-deb http://mirrors.aliyun.com/ubuntu/ hirsute-proposed main restricted universe multiverse
-deb http://mirrors.aliyun.com/ubuntu/ hirsute-backports main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ hirsute main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ hirsute-security main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ hirsute-updates main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ hirsute-proposed main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ hirsute-backports main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ hirsute main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ hirsute-security main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ hirsute-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ hirsute-proposed main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ hirsute-backports main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ hirsute main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ hirsute-security main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ hirsute-updates main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ hirsute-proposed main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ hirsute-backports main restricted universe multiverse
 ```
 
 ## Ubuntu 20.04
