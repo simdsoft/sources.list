@@ -50,10 +50,10 @@ deb http://old-releases.ubuntu.com/ubuntu/ impish-security main restricted unive
 deb-src http://old-releases.ubuntu.com/ubuntu/ impish-security main restricted universe multiverse
 
 deb http://old-releases.ubuntu.com/ubuntu/ impish-updates main restricted universe multiverse
-deb-src http://old-releases.ubuntu.com/ubuntu/ kinetic-updates main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ impish-updates main restricted universe multiverse
 
 deb http://old-releases.ubuntu.com/ubuntu/ impish-proposed main restricted universe multiverse
-deb-src http://old-releases.ubuntu.com/ubuntu/ kinetic-proposed main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu/ impish-proposed main restricted universe multiverse
 
 deb http://old-releases.ubuntu.com/ubuntu/ impish-backports main restricted universe multiverse
 deb-src http://old-releases.ubuntu.com/ubuntu/ impish-backports main restricted universe multiverse
