@@ -1,6 +1,21 @@
 # sources.list
 The ubuntu sources list collection.
 
+## Ubuntu 23.04
+
+```txt
+deb http://mirrors.aliyun.com/ubuntu/ lunar main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ lunar main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ lunar-security main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ lunar-security main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ lunar-updates main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ lunar-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ lunar-proposed main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ lunar-proposed main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ lunar-backports main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ lunar-backports main restricted universe multiverse
+```
+
 ## Ubuntu 22.04.1
 
 ```txt
