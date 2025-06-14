@@ -31,7 +31,7 @@ deb http://mirrors.aliyun.com/ubuntu/ lunar-backports main restricted universe m
 deb-src http://mirrors.aliyun.com/ubuntu/ lunar-backports main restricted universe multiverse
 ```
 
-## Ubuntu 22.04.1
+## Ubuntu 22.04
 
 ```txt
 deb https://mirrors.aliyun.com/ubuntu/ jammy main restricted universe multiverse
@@ -48,27 +48,6 @@ deb-src https://mirrors.aliyun.com/ubuntu/ jammy-proposed main restricted univer
 
 deb https://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse
 deb-src https://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse
-
-
-```
-
-## Ubuntu 22.04
-
-```txt
-deb http://mirrors.aliyun.com/ubuntu/ jammy main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ jammy main restricted universe multiverse
-
-deb http://mirrors.aliyun.com/ubuntu/ jammy-security main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ jammy-security main restricted universe multiverse
-
-deb http://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse
-
-# deb http://mirrors.aliyun.com/ubuntu/ jammy-proposed main restricted universe multiverse
-# deb-src http://mirrors.aliyun.com/ubuntu/ jammy-proposed main restricted universe multiverse
-
-deb http://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse
-deb-src http://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse
 ```
 
 ## Ubuntu 21.10
