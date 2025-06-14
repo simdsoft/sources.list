@@ -1,6 +1,21 @@
 # sources.list
 The ubuntu sources list collection.
 
+## Ubuntu 24.04
+
+```txt
+deb http://mirrors.aliyun.com/ubuntu/ noble main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ noble main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ noble-security main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ noble-security main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ noble-updates main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ noble-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ noble-proposed main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ noble-proposed main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ noble-backports main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ noble-backports main restricted universe multiverse
+```
+
 ## Ubuntu 23.04
 
 ```txt
